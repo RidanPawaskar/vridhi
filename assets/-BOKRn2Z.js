@@ -1,0 +1,1 @@
+import{r as e}from"./DBT9T-4E.js";function r(r,t=1e3){const[u,n]=e.useState(r),c=e.useRef(0),o=e.useRef(null);return e.useEffect(()=>{const e=Date.now(),u=e-c.current;return u>=t?(n(r),c.current=e):(o.current&&clearTimeout(o.current),o.current=setTimeout(()=>{n(r),c.current=Date.now()},t-u)),()=>{o.current&&clearTimeout(o.current)}},[r,t]),u}export{r as u};

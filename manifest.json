@@ -1,0 +1,26 @@
+{
+    "name": "Vridhi",
+    "short_name": "Vridhi",
+    "description": "Advanced trading platform - Growth Simplified",
+    "id": "./",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "display_override": ["window-controls-overlay", "standalone"],
+    "orientation": "portrait",
+    "background_color": "#f4fcf7",
+    "theme_color": "#005f4b",
+    "categories": [
+        "finance",
+        "business"
+    ],
+    "icons": [
+        {
+            "src": "./logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "prefer_related_applications": false
+}
