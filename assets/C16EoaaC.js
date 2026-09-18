@@ -1,0 +1,1 @@
+import{j as e}from"./9g268s7l.js";function l({htmlFor:l,children:r,className:a}){return e.jsx("label",{htmlFor:l,className:`text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 ${a||""}`,children:r})}export{l as L};
