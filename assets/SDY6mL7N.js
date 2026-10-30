@@ -1,0 +1,1 @@
+import{o as a,B as s,p as i}from"./BJ5Xhrkq.js";import{X as o,Y as p}from"./OmOd_MnQ.js";var t=a({chartName:"BarChart",GraphicalChild:s,defaultTooltipEventType:"axis",validateTooltipEventTypes:["axis","item"],axisComponents:[{axisType:"xAxis",AxisComp:o},{axisType:"yAxis",AxisComp:p}],formatAxisMap:i});export{t as B};
